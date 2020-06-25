@@ -3,7 +3,7 @@ kind: Ingress
 metadata:
   annotations:
     kubernetes.io/ingress.class: nginx
-  name: guestbook
+  name: guestbook-ingress
   namespace: default
 spec:
   rules:
