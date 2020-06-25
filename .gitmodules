@@ -1,0 +1,3 @@
+[submodule "zipkin/helm"]
+	path = zipkin/helm
+	url = git@github.com:Financial-Times/zipkin-helm.git
