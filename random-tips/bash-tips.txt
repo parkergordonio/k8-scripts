@@ -1,0 +1,3 @@
+# have any failure actually fail
+set -euo pipefai
+
